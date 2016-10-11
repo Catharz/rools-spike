@@ -1,0 +1,30 @@
+{
+  "name": "rools-spike",
+  "version": "1.0.0",
+  "description": "rules engine spike",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Catharz/rools-spike.git"
+  },
+  "keywords": [
+    "promotions",
+    "rules",
+    "engine"
+  ],
+  "author": "Craig Read",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Catharz/rools-spike/issues"
+  },
+  "homepage": "https://github.com/Catharz/rools-spike#readme"
+}
